@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Raw data (too large)
+data/Music info.csv
+
+# Keep cleaned_data.csv for deployment!
