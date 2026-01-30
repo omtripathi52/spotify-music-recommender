@@ -27,7 +27,7 @@
 
 ## 🎯 Live Demo
 
-> **[🚀 Try the App Live →](https://spotify-music-recommender-omtripathi52.streamlit.app)**
+> **[🚀 Try the App Live →](https://spotify-hybrid-rec.streamlit.app/)**
 
 ---
 
